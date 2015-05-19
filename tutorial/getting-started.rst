@@ -40,6 +40,7 @@ file in the previous step.
         ...
         require: {
             ...
+            "jackalope/jackalope-doctrine-dbal": "1.1.0",
             "symfony-cmf/routing-auto-bundle": "~1.0",
             "symfony-cmf/menu-bundle": "~1.2",
             "sonata-project/doctrine-phpcr-admin-bundle": "~1.2",
